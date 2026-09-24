@@ -1,0 +1,4 @@
+status,total_claims,claimed_amount,approved_amount
+Settled,18,91300.0,81100.0
+Outstanding,4,38000.0,33700.0
+Rejected,2,9700.0,0.0

@@ -1,0 +1,5 @@
+claim_id,policyholder_name,policy_type,claim_type,claim_date,claim_amount,approved_amount
+2003,Chloe Martin,Home,Fire Damage,2025-03-16,12500.0,11000.0
+3008,Hannah Brown,Home,Fire Damage,2026-08-20,11800.0,10400.0
+1005,Eva Schmidt,Home,Storm Damage,2024-05-07,9100.0,8200.0
+3005,Eva Schmidt,Motor,Collision,2026-05-21,4600.0,4100.0

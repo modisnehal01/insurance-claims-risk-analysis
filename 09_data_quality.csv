@@ -1,0 +1,5 @@
+check_name,issue_count
+claims_missing_policy,0
+policies_missing_policyholder,0
+negative_claim_values,0
+settled_without_date,0

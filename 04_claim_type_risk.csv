@@ -1,0 +1,8 @@
+claim_type,total_claims,total_claimed,avg_claim_amount,total_approved
+Theft,5,37300.0,7460.0,26700.0
+Storm Damage,3,27300.0,9100.0,24600.0
+Fire Damage,2,24300.0,12150.0,21400.0
+Water Damage,4,22800.0,5700.0,20100.0
+Collision,6,21800.0,3633.33,17100.0
+Medical,3,4600.0,1533.33,4200.0
+Baggage,1,900.0,900.0,700.0
