@@ -2,7 +2,7 @@
 
 **SQL (SQLite) • Insurance analytics • KPI reporting • CTEs • Window functions**
 
-A reproducible portfolio project using **synthetic insurance data from 2024–2026** to analyse claims volume, settlement performance, claim severity, policy-type exposure and outstanding claims.
+A reproducible portfolio project using **insurance data from 2024–2026** to analyse claims volume, settlement performance, claim severity, policy-type exposure and outstanding claims.
 
 > **Dataset notice:** All names, policies, premiums and claims are invented for learning and portfolio demonstration. They are not real employer, client or insurer records.
 
@@ -78,6 +78,6 @@ insurance-claims-risk-analysis/
 
 ## Interpretation and limitations
 
-This is a small synthetic dataset intended to demonstrate SQL analysis techniques. The approved-claims-to-premium ratio in this project is a simple portfolio comparison using the premiums stored in the sample; it is **not** a formal actuarial loss ratio and should not be interpreted as one.
+This is a small dataset intended to demonstrate SQL analysis techniques. The approved-claims-to-premium ratio in this project is a simple portfolio comparison using the premiums stored in the sample; it is **not** a formal actuarial loss ratio and should not be interpreted as one.
 
 Potential follow-up analysis could include claim frequency per policy-year, fraud indicators, reserve development, customer retention and larger multi-year exposure data.
